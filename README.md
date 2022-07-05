@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Homero Gazze</h1>
-<h3 align="center">A passionate Full-Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full-Stack developer and videogames developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=champimagic&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
 
