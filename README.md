@@ -3,7 +3,7 @@
 **Mobile Engineer · Android Developer · Product-Oriented Software Developer**
 
 Argentina 🇦🇷 · Disponible para trabajo remoto  
-[Email](mailto:hgazze0@gmail.com) · [LinkedIn](https://linkedin.com/in/homero-gazze)
+[Email](mailto:hgazze0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/homero-gazze-428723319/) 
 
 Desarrollador especializado en aplicaciones mobile, principalmente Android con Kotlin y Jetpack Compose.
 
